@@ -1,6 +1,6 @@
 # 📑 Progressbar
 
-⭕ [**Veja a documentação completa aqui**](https://github.com/gupcdm-jpg/wiki-assets/wiki/Sistema-de-Assets)
+⭕ [**Veja a documentação completa aqui**](https://github.com/gupcdm-jpg/wiki-progressbar/wiki)
 
 ---
 

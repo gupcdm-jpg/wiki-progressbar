@@ -8,4 +8,4 @@
 
 - ☎️ [Discord](https://discord.gg/UbzvC9JEAJ)
 
-> Sistema feito e mantido por [Gu Scripts](https://discord.gg/UbzvC9JEAJ).
+> Sistema feito e mantido por [SPARTA RESOURCES](https://discord.gg/UbzvC9JEAJ).

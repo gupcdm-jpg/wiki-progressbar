@@ -1,6 +1,6 @@
 # 📑 Progressbar
 
-⭕ [**Veja a documentação completa aqui**]([https://github.com/gupcdm-jpg/wiki-progressbar/wiki](https://github.com/gupcdm-jpg/wiki-progressbar/wiki/Sistema-de-Barra-de-Progresso))
+⭕ [**Veja a documentação completa aqui**](https://github.com/gupcdm-jpg/wiki-progressbar/wiki/Sistema-de-Barra-de-Progresso)
 
 ---
 
